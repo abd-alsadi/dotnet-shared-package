@@ -1,0 +1,5 @@
+S:\LocalPro\KmnlkShared\KmnlkShared.Tests\bin\Debug\KmnlkShared.Tests.dll
+S:\LocalPro\KmnlkShared\KmnlkShared.Tests\bin\Debug\KmnlkShared.Tests.pdb
+S:\LocalPro\KmnlkShared\KmnlkShared.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+S:\LocalPro\KmnlkShared\KmnlkShared.Tests\obj\Debug\KmnlkShared.Tests.dll
+S:\LocalPro\KmnlkShared\KmnlkShared.Tests\obj\Debug\KmnlkShared.Tests.pdb

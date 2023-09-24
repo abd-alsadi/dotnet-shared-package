@@ -1,0 +1,5 @@
+S:\LocalPro\KmnlkShared\MyTest\bin\Debug\MyTest.exe.config
+S:\LocalPro\KmnlkShared\MyTest\bin\Debug\MyTest.exe
+S:\LocalPro\KmnlkShared\MyTest\bin\Debug\MyTest.pdb
+S:\LocalPro\KmnlkShared\MyTest\obj\Debug\MyTest.exe
+S:\LocalPro\KmnlkShared\MyTest\obj\Debug\MyTest.pdb

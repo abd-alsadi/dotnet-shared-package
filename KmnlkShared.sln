@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmnlkShared.Tests", "KmnlkShared.Tests\KmnlkShared.Tests.csproj", "{D158B33D-60D1-46F8-BB29-57B5FD44C306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Public", "Public\Public.csproj", "{7A393A84-8787-431B-B732-8B96ED695333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KmnlkCommon", "KmnlkCommon\KmnlkCommon.csproj", "{DC384E4F-339F-42E2-B323-E21A77EE49B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "notes", "notes", "{F50CCAE5-F96F-4187-88EF-DDD00A10B2FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTest", "MyTest\MyTest.csproj", "{3EA3BBCF-E0DD-421C-9964-EE7C2EF4B633}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "All Dlls", "All Dlls", "{94ED9F46-CC31-4275-A80A-453DCF5A04EB}"
+	ProjectSection(SolutionItems) = preProject
+		All Dlls\DataMatrix.net.dll = All Dlls\DataMatrix.net.dll
+		All Dlls\Newtonsoft.Json.dll = All Dlls\Newtonsoft.Json.dll
+		All Dlls\System.Data.OracleClient.dll = All Dlls\System.Data.OracleClient.dll
+		All Dlls\System.Runtime.Caching.dll = All Dlls\System.Runtime.Caching.dll
+		All Dlls\Zen.Barcode.Core.dll = All Dlls\Zen.Barcode.Core.dll
+		All Dlls\zxing.dll = All Dlls\zxing.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D158B33D-60D1-46F8-BB29-57B5FD44C306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D158B33D-60D1-46F8-BB29-57B5FD44C306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D158B33D-60D1-46F8-BB29-57B5FD44C306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D158B33D-60D1-46F8-BB29-57B5FD44C306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A393A84-8787-431B-B732-8B96ED695333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A393A84-8787-431B-B732-8B96ED695333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A393A84-8787-431B-B732-8B96ED695333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A393A84-8787-431B-B732-8B96ED695333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC384E4F-339F-42E2-B323-E21A77EE49B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC384E4F-339F-42E2-B323-E21A77EE49B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC384E4F-339F-42E2-B323-E21A77EE49B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC384E4F-339F-42E2-B323-E21A77EE49B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA3BBCF-E0DD-421C-9964-EE7C2EF4B633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA3BBCF-E0DD-421C-9964-EE7C2EF4B633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA3BBCF-E0DD-421C-9964-EE7C2EF4B633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA3BBCF-E0DD-421C-9964-EE7C2EF4B633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

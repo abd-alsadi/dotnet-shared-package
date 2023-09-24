@@ -1,0 +1,6 @@
+S:\LocalPro\KmnlkShared\KmnlkCommon\bin\Debug\KmnlkCommon.dll
+S:\LocalPro\KmnlkShared\KmnlkCommon\bin\Debug\KmnlkCommon.pdb
+S:\LocalPro\KmnlkShared\KmnlkCommon\bin\Debug\Newtonsoft.Json.dll
+S:\LocalPro\KmnlkShared\KmnlkCommon\bin\Debug\System.Drawing.Common.dll
+S:\LocalPro\KmnlkShared\KmnlkCommon\obj\Debug\KmnlkCommon.dll
+S:\LocalPro\KmnlkShared\KmnlkCommon\obj\Debug\KmnlkCommon.pdb
